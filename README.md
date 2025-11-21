@@ -23,7 +23,7 @@ The dataset was downloaded from [Inside Airbnb](https://insideairbnb.com/get-the
 
 #### About the Dataset
 There are several different files on the site that can be downloaded and used, and after investigating, I decided to use `listings.csv` as it aggregates information from all the other files, and had all the information I need to proceed with this project.  
-As the file has a big number of columns, and as to not overcumber this `ReadMe` file, I attached a file named [Column Description](./Column Description.xls "xls file with information on the columns") where a table is found with all the information about the columns.
+As the file has a big number of columns, and as to not overcumber this `ReadMe` file, I attached a file named [Column Description](./Column20%Description.xls) where a table is found with all the information about the columns.
 
 #### Index
 How the Jupyter notebook is structured
