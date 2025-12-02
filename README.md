@@ -26,10 +26,12 @@ There are several different files on the site that can be downloaded and used, a
 As the file has a big number of columns, and as to not overcumber this `ReadMe` file, I attached a file named [Column Description](Column_Description.xls) where a table is found with all the information about the columns.
 
 #### Index
-How the Jupyter notebook is structured
-
-#### Conclusion
-Findings and key insights
-
-#### Glossary
-If necessary
+1. Importing the data
+2. Data cleaning and preprocessing
+3. Data Analysis#
+   1. Listings
+   2. Area
+   3. Availability
+   4. Review Scores
+   5. Correlation Matrix
+4. Conclusion
